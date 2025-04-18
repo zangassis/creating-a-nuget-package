@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dango.BlogUtils</id>
+    <version>1.0.0</version>
+    <authors>Dango.BlogUtils</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="3fcf7716c6b53d59c461565f2c21ece265ee2ead" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Proj\NuGet\dango-blog-utils\bin\Release\net9.0\Dango.BlogUtils.dll" target="lib\net9.0\Dango.BlogUtils.dll" />
+  </files>
+</package>

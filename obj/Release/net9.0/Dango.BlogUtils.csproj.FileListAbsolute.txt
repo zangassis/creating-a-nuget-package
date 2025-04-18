@@ -1,0 +1,12 @@
+C:\Proj\NuGet\dango-blog-utils\bin\Release\net9.0\Dango.BlogUtils.deps.json
+C:\Proj\NuGet\dango-blog-utils\bin\Release\net9.0\Dango.BlogUtils.dll
+C:\Proj\NuGet\dango-blog-utils\bin\Release\net9.0\Dango.BlogUtils.pdb
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.AssemblyInfoInputs.cache
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.AssemblyInfo.cs
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.csproj.CoreCompileInputs.cache
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.sourcelink.json
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.dll
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\refint\Dango.BlogUtils.dll
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\Dango.BlogUtils.pdb
+C:\Proj\NuGet\dango-blog-utils\obj\Release\net9.0\ref\Dango.BlogUtils.dll
