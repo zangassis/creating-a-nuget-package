@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dango.BlogUtils.csproj",
+              "Title": "Dango.BlogUtils",
               "DocumentMoniker": "C:\\Proj\\NuGet\\dango-blog-utils\\Dango.BlogUtils.csproj",
               "RelativeDocumentMoniker": "Dango.BlogUtils.csproj",
               "ToolTip": "C:\\Proj\\NuGet\\dango-blog-utils\\Dango.BlogUtils.csproj",
               "RelativeToolTip": "Dango.BlogUtils.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-22T20:57:41.705Z",
               "EditorCaption": ""
